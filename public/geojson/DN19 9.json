@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.427273812577313,53.6904090490259],[-0.426982898866386,53.6883977318176],[-0.426235672305111,53.6885550426727],[-0.42720358243207,53.6905821137129],[-0.427273812577313,53.6904090490259]]]},"properties":{"name":"DN19 9","description":"DN19 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

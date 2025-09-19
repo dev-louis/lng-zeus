@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.55532811725109,53.1396237695416],[-1.55370397805674,53.139353079676],[-1.55371788435678,53.1393747997321],[-1.55409864177963,53.1403085619834],[-1.55492402739095,53.1397899373346],[-1.55532811725109,53.1396237695416]]]},"properties":{"name":"DE4 9","description":"DE4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

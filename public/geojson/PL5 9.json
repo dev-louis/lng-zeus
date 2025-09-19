@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.16683973765432,50.4120906604938],[-4.16624655404388,50.4120037016399],[-4.1665051899184,50.4126005536578],[-4.16683976330305,50.4120924046074],[-4.16683973765432,50.4120906604938]]]},"properties":{"name":"PL5 9","description":"PL5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

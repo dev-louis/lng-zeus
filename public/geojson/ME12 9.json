@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.764330618973249,51.4405156832582],[0.764408797511775,51.4404823571504],[0.764529864469371,51.4406324992435],[0.764274358600569,51.4410595335277],[0.764330618973249,51.4405156832582]]]},"properties":{"name":"ME12 9","description":"ME12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

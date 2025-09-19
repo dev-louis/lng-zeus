@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.0733251096268,55.8931794923995],[-3.0731944230743,55.8927346785373],[-3.07264005902172,55.8926867705327],[-3.0726164644551,55.8927454644547],[-3.07312248576458,55.8932514857653],[-3.0733251096268,55.8931794923995]]]},"properties":{"name":"EH22 9","description":"EH22 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

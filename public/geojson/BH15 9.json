@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.96231863624309,50.7237304168245],[-1.96280765271787,50.7230900381076],[-1.96264139981476,50.7217784874277],[-1.9616938703734,50.7234710500991],[-1.96231863624309,50.7237304168245]]]},"properties":{"name":"BH15 9","description":"BH15 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

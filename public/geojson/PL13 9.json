@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.44910867378016,50.3602220656896],[-4.44943463592101,50.3597488272924],[-4.44887419432314,50.3597737358079],[-4.44905904654655,50.3602358663664],[-4.44910867378016,50.3602220656896]]]},"properties":{"name":"PL13 9","description":"PL13 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

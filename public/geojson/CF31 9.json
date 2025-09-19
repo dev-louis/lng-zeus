@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.57212130722033,51.5045141866866],[-3.571174,51.5047157830579],[-3.571174,51.5059882061483],[-3.57197837551802,51.5064958500105],[-3.57242882345135,51.5065227149607],[-3.57290578172638,51.5059909293288],[-3.57212130722033,51.5045141866866]]]},"properties":{"name":"CF31 9","description":"CF31 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

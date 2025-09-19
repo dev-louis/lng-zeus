@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-6.08287175301465,57.31780205741],[-6.14870675366137,57.319259096502],[-6.14908363899563,57.319179843498],[-6.11860855686084,57.2342089180951],[-6.11053871527759,57.2374618394504],[-6.07530269898596,57.2995751592862],[-6.08287175301465,57.31780205741]]]},"properties":{"name":"IV48 8","description":"IV48 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

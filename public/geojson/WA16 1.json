@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.35905257457807,53.3124726808575],[-2.35886768556671,53.3137058101769],[-2.3631269768505,53.3127222515298],[-2.36310891858088,53.3127112893282],[-2.35905257457807,53.3124726808575]]]},"properties":{"name":"WA16 1","description":"WA16 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

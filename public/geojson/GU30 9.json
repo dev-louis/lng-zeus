@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.80364034679337,51.0746534821853],[-0.803593334079795,51.0745493826053],[-0.803286811131576,51.0745572654902],[-0.803097798777884,51.0752738507871],[-0.803384624991546,51.0756252250319],[-0.80364034679337,51.0746534821853]]]},"properties":{"name":"GU30 9","description":"GU30 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

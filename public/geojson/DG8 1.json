@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.49155368792036,54.9548979371813],[-4.49209998803811,54.9535337842557],[-4.49197177046507,54.9532956417092],[-4.49045416219279,54.9533030627766],[-4.49033926384599,54.9533748850339],[-4.49155368792036,54.9548979371813]]]},"properties":{"name":"DG8 1","description":"DG8 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

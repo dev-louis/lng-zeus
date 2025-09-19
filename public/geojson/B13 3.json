@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.89146580273818,52.428094826346],[-1.89146321196754,52.4277103559838],[-1.89072828260871,52.4273428913043],[-1.89056900711426,52.4279456397441],[-1.89092605859869,52.4282760511178],[-1.89146580273818,52.428094826346]]]},"properties":{"name":"B13 3","description":"B13 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

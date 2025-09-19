@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.370057,51.4152263833076],[-0.370057,51.4139491806084],[-0.370043450458895,51.4139223906412],[-0.369420953510371,51.4147705087544],[-0.369400941280358,51.4151665572419],[-0.370057,51.4152263833076]]]},"properties":{"name":"TW12 9","description":"TW12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

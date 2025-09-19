@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.55382533634719,51.9403015605787],[-1.55351916659963,51.9397912776663],[-1.55270132934627,51.9403345880888],[-1.55226542292517,51.9421560542055],[-1.55329398926745,51.9420994061772],[-1.55382533634719,51.9403015605787]]]},"properties":{"name":"OX7 9","description":"OX7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

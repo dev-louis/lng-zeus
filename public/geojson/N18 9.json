@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.06395812427751,51.6135293034682],[-0.063921337559264,51.6130694694916],[-0.063600719623726,51.6134568331684],[-0.063593767906036,51.6135088483737],[-0.06395812427751,51.6135293034682]]]},"properties":{"name":"N18 9","description":"N18 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

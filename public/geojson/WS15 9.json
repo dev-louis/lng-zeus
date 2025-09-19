@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.9351317727271,52.7614712272729],[-1.9350755969891,52.7615257485715],[-1.93507551017549,52.7616338315212],[-1.93594804971489,52.7618313198943],[-1.93594609691314,52.7617107343862],[-1.9351317727271,52.7614712272729]]]},"properties":{"name":"WS15 9","description":"WS15 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

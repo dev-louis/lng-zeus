@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.776696,51.5421563242737],[-1.776696,51.5340949443081],[-1.77137526931629,51.5339959598472],[-1.77095810645765,51.5365355949036],[-1.77490305599614,51.5429387039535],[-1.77534241504398,51.5432384310848],[-1.776696,51.5421563242737]]]},"properties":{"name":"SN38 0","description":"SN38 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.53110649703872,53.7693199772303],[-1.53120831655197,53.768816420862],[-1.53025835210956,53.7690539119726],[-1.53025911997768,53.7690647204454],[-1.5307347248835,53.7695584303696],[-1.53110649703872,53.7693199772303]]]},"properties":{"name":"LS10 9","description":"LS10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

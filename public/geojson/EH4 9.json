@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.22618150087184,55.9594805],[-3.22615125311307,55.9593025811318],[-3.22535768883326,55.9589222857844],[-3.22531666449103,55.9589466127799],[-3.22505312340702,55.959480499999],[-3.22618150087184,55.9594805]]]},"properties":{"name":"EH4 9","description":"EH4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

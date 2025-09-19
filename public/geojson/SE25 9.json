@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.079968013961915,51.3997571369908],[-0.079985613281228,51.3992995546875],[-0.079710221250177,51.3993915880141],[-0.079527344622378,51.3997496041816],[-0.079968013961915,51.3997571369908]]]},"properties":{"name":"SE25 9","description":"SE25 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

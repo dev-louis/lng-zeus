@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.022904562062496,51.8062992896251],[-0.022630739165632,51.8050214494413],[-0.022275459627684,51.8051318298254],[-0.021667914451014,51.8061459164263],[-0.022410504367362,51.8063628324393],[-0.022904562062496,51.8062992896251]]]},"properties":{"name":"SG12 4","description":"SG12 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

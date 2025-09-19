@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.48763658092362,53.0176120348347],[-1.48454105955762,53.0172861904797],[-1.48449529867516,53.0175183596628],[-1.48479209901568,53.0183981063131],[-1.48763658092362,53.0176120348347]]]},"properties":{"name":"DE56 9","description":"DE56 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

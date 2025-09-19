@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.32861514809401,52.1109693240471],[-2.32870861241737,52.1110650890307],[-2.32940615936255,52.1116047549801],[-2.32957822160359,52.1114508608018],[-2.32861514809401,52.1109693240471]]]},"properties":{"name":"WR14 9","description":"WR14 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

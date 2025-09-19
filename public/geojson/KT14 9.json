@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.478828012777516,51.3453928722255],[-0.478755088039718,51.3453021054747],[-0.47858674513072,51.3452553174316],[-0.478441033345058,51.3465123902943],[-0.478704780859698,51.3466251914007],[-0.478828012777516,51.3453928722255]]]},"properties":{"name":"KT14 9","description":"KT14 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

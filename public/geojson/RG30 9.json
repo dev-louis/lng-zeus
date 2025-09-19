@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.992127674249287,51.4628613296178],[-0.991762849610709,51.4590306709096],[-0.991359819538386,51.4590155616741],[-0.990844920147305,51.4593986219065],[-0.99160260339317,51.4621625911066],[-0.992127674249287,51.4628613296178]]]},"properties":{"name":"RG30 9","description":"RG30 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

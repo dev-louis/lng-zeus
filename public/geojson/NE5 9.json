@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.68585399170957,54.9845937320511],[-1.68677850995063,54.9847979123485],[-1.68678552244951,54.9847444132373],[-1.68612974469817,54.9840028327895],[-1.68585399170957,54.9845937320511]]]},"properties":{"name":"NE5 9","description":"NE5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

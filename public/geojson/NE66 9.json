@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.69765228516674,55.4016256112504],[-1.69767774592216,55.4016421974637],[-1.6994641174066,55.3998268968864],[-1.6987310605599,55.397892608226],[-1.6981594466248,55.3978219003173],[-1.69765228516674,55.4016256112504]]]},"properties":{"name":"NE66 9","description":"NE66 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

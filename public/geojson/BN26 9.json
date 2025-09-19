@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.244775290407404,50.8231648843627],[0.245267123375325,50.8228984748384],[0.245326316802772,50.8230991368346],[0.245192717999628,50.8235469063391],[0.244854067616009,50.8236217921734],[0.244775290407404,50.8231648843627]]]},"properties":{"name":"BN26 9","description":"BN26 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

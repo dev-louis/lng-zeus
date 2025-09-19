@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.2465295,53.4806677430279],[-2.2465295,53.48004535],[-2.24651162842892,53.4800709659186],[-2.24642080466073,53.4806058169979],[-2.2465295,53.4806677430279]]]},"properties":{"name":"M60 8","description":"M60 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

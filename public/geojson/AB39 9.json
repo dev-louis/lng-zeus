@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.20823714584841,56.9650915124537],[-2.20774946504348,56.964892146087],[-2.20763985841779,56.9649092721222],[-2.20757525844485,56.9650788792225],[-2.20814794755804,56.965365223779],[-2.20823714584841,56.9650915124537]]]},"properties":{"name":"AB39 9","description":"AB39 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

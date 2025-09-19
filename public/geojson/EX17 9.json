@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.64721156168936,50.7905990721438],[-3.64723372817441,50.7905037453386],[-3.64720321873848,50.7900262063414],[-3.64666751030075,50.7898635183126],[-3.64712621011436,50.7906789846478],[-3.64721156168936,50.7905990721438]]]},"properties":{"name":"EX17 9","description":"EX17 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

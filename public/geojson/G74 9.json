@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.17636171182434,55.7619175615703],[-4.1765665261137,55.7612519151306],[-4.17633511116092,55.761062444138],[-4.17581542527138,55.7616545357021],[-4.17587871809878,55.7618011520396],[-4.17636171182434,55.7619175615703]]]},"properties":{"name":"G74 9","description":"G74 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

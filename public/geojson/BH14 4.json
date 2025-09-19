@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.94941420155587,50.7251098988685],[-1.94931853277248,50.7249796926181],[-1.94881897980644,50.7252002037367],[-1.94892755326387,50.725463824899],[-1.94941420155587,50.7251098988685]]]},"properties":{"name":"BH14 4","description":"BH14 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

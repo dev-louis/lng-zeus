@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.206011467301857,51.8044314420745],[-0.205598695732426,51.8041295853145],[-0.204883998256088,51.8038601993427],[-0.204474835781031,51.8045648302273],[-0.206011467301857,51.8044314420745]]]},"properties":{"name":"AL7 9","description":"AL7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

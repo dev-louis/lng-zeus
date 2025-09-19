@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.02642562418965,53.9585130964906],[-2.02619214486593,53.9576353871812],[-2.02529088184649,53.9578928909011],[-2.0251265869435,53.9585148217884],[-2.02529249402333,53.9586179778672],[-2.02642562418965,53.9585130964906]]]},"properties":{"name":"BD23 0","description":"BD23 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

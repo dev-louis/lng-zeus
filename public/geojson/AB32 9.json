@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.28902896551711,57.1486733482759],[-2.29050679942481,57.1482318687794],[-2.29047776123209,57.1470206612713],[-2.28705686651023,57.1474841197934],[-2.28706039579394,57.1476234444233],[-2.28902896551711,57.1486733482759]]]},"properties":{"name":"AB32 9","description":"AB32 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

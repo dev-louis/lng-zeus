@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.33861671378201,53.3334732383688],[-1.33933742610837,53.3324405],[-1.33776158443258,53.3324405],[-1.33766308611445,53.3325824424434],[-1.33790221437447,53.3336243898895],[-1.33861671378201,53.3334732383688]]]},"properties":{"name":"S20 9","description":"S20 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

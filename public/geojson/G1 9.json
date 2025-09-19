@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.243534,55.8685975],[-4.24337762491828,55.867971999673],[-4.24337600343427,55.867972008168],[-4.24277957275447,55.8683169786343],[-4.24267602399688,55.870999832808],[-4.243534,55.8685975]]]},"properties":{"name":"G1 9","description":"G1 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

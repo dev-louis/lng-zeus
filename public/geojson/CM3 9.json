@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.616280462962956,51.6434965],[0.616404215771262,51.6428282348354],[0.616952299038751,51.6430098822984],[0.616898841831223,51.6434554863069],[0.616763207347468,51.6435512651193],[0.616280462962956,51.6434965]]]},"properties":{"name":"CM3 9","description":"CM3 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

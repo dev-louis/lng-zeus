@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.95934496133262,50.6093107938186],[-1.95933851215207,50.609177376396],[-1.95898894448796,50.6090993676121],[-1.95888132876188,50.609292297121],[-1.95902089266566,50.609487558546],[-1.95934496133262,50.6093107938186]]]},"properties":{"name":"BH19 9","description":"BH19 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

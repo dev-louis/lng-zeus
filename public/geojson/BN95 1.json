@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.330292043930619,50.8234930430105],[-0.330561599165929,50.8234367818121],[-0.33097887539135,50.8226037634651],[-0.330752268782568,50.8219762138198],[-0.329608847748093,50.8232776074972],[-0.330292043930619,50.8234930430105]]]},"properties":{"name":"BN95 1","description":"BN95 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

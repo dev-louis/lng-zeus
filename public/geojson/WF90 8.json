@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.4916421061094,53.6743483617363],[-1.49014246606814,53.6741039759518],[-1.49011218292644,53.6741878411569],[-1.49011263411897,53.6745395457351],[-1.4916421061094,53.6743483617363]]]},"properties":{"name":"WF90 8","description":"WF90 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.18998560621356,52.6059629857499],[-1.18958502850885,52.606713196608],[-1.19217759457036,52.6080915025104],[-1.19237965046409,52.607161328041],[-1.1921454168816,52.6068029121205],[-1.18998560621356,52.6059629857499]]]},"properties":{"name":"LE19 9","description":"LE19 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

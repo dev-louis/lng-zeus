@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.24507357611941,51.8325015597015],[1.24517143075232,51.8324453214067],[1.24530790802215,51.8329686820675],[1.24495275740063,51.8331213585289],[1.24484029953911,51.8330847511521],[1.24507357611941,51.8325015597015]]]},"properties":{"name":"CO13 3","description":"CO13 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

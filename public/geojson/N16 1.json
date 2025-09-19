@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.077085697568281,51.5697180683891],[-0.076635602905486,51.5699357371195],[-0.077121383675426,51.5704276670131],[-0.077140072736547,51.5704249455748],[-0.077085697568281,51.5697180683891]]]},"properties":{"name":"N16 1","description":"N16 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

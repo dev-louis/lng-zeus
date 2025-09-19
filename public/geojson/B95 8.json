@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.7811256566103,52.2943767640277],[-1.78125890521327,52.294125943128],[-1.78056720143872,52.2937109208633],[-1.78047306266027,52.2936995592866],[-1.78033815255831,52.2939534416914],[-1.7811256566103,52.2943767640277]]]},"properties":{"name":"B95 8","description":"B95 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

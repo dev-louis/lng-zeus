@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.74797760326916,55.0519982590388],[-1.7479918226063,55.0519998866894],[-1.74930869202736,55.0509604377597],[-1.74930091283974,55.0509284058107],[-1.74841067647058,55.050987754902],[-1.74797760326916,55.0519982590388]]]},"properties":{"name":"NE20 2","description":"NE20 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

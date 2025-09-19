@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.98389896753127,55.9596314740258],[-2.98396291596639,55.9596398151261],[-2.98406784289456,55.9596065210046],[-2.9833360262582,55.9588271838074],[-2.98321930479679,55.9590877438375],[-2.98389896753127,55.9596314740258]]]},"properties":{"name":"EH32 2","description":"EH32 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

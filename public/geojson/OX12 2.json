@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.4274124092884,51.5884770486149],[-1.42743963767952,51.5884984262773],[-1.42780625780354,51.5882041492547],[-1.42737992662121,51.5879573259386],[-1.4274124092884,51.5884770486149]]]},"properties":{"name":"OX12 2","description":"OX12 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

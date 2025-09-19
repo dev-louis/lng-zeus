@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.817445335127006,52.042103073063],[-0.818795794178661,52.0429969531716],[-0.819483646860869,52.042410978568],[-0.818734301082777,52.0405207369656],[-0.817445335127006,52.042103073063]]]},"properties":{"name":"MK77 1","description":"MK77 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

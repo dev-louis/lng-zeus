@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.83539052944234,51.0178229346937],[-3.83520431878962,51.0172373511937],[-3.83513578323435,51.0173748453632],[-3.83524418815391,51.0178897687308],[-3.83525578101841,51.0178887493174],[-3.83539052944234,51.0178229346937]]]},"properties":{"name":"EX36 9","description":"EX36 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

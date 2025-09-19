@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.17264196566436,56.1119936552215],[-3.17258023987783,56.110640561006],[-3.17166739337566,56.110590986247],[-3.17130536971374,56.1111240425272],[-3.1712213427395,56.1115201142464],[-3.17264196566436,56.1119936552215]]]},"properties":{"name":"KY2 9","description":"KY2 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

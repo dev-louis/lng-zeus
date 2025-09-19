@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.16751806350889,51.6809006205693],[-4.16725216286082,51.6803034613408],[-4.16686115665335,51.6802814256043],[-4.16667028277888,51.6809812964775],[-4.16751806350889,51.6809006205693]]]},"properties":{"name":"SA15 9","description":"SA15 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

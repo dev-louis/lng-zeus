@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.61569495846038,54.9361334625406],[-1.61614553637485,54.9345085985556],[-1.61444514482418,54.9335874216858],[-1.6142597113804,54.934041867642],[-1.6148895837404,54.9358020372696],[-1.61569495846038,54.9361334625406]]]},"properties":{"name":"DH98 1","description":"DH98 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

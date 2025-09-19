@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.942180460257976,50.9860520283249],[0.942412543237089,50.9862110481439],[0.942101,50.9865457466216],[0.942101,50.9860969],[0.942180460257976,50.9860520283249]]]},"properties":{"name":"TN28 9","description":"TN28 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

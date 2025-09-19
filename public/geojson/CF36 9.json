@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.70605380527259,51.4783353190391],[-3.70602101608479,51.4783272104723],[-3.70594278345857,51.4797353977477],[-3.70642802185705,51.4790460676623],[-3.70612986173566,51.4783977194789],[-3.70605380527259,51.4783353190391]]]},"properties":{"name":"CF36 9","description":"CF36 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.44999938362084,56.0679567931034],[-3.44835217305346,56.0682172216516],[-3.44813036282995,56.068618621954],[-3.44813377648826,56.0694492788092],[-3.44999938362084,56.0679567931034]]]},"properties":{"name":"KY12 2","description":"KY12 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

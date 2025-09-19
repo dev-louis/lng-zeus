@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.525576296737514,51.3797788738933],[0.526016110098792,51.3805298944767],[0.525540801716144,51.3808472497688],[0.525503340633296,51.3797608783635],[0.525576296737514,51.3797788738933]]]},"properties":{"name":"ME4 9","description":"ME4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

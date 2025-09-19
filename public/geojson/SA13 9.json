@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.77893683333337,51.5925373333333],[-3.77918214736165,51.5924146763192],[-3.77918144825434,51.592143422685],[-3.77906158962895,51.5920071190767],[-3.77893683333337,51.5925373333333]]]},"properties":{"name":"SA13 9","description":"SA13 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

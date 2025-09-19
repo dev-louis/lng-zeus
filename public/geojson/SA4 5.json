@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.01676131194038,51.667109252239],[-4.016882321145,51.6674005339583],[-4.01799570855421,51.6665301333778],[-4.01894215886376,51.6647090112221],[-4.01852075274365,51.6635126174275],[-4.01734141456252,51.6647888417482],[-4.01676131194038,51.667109252239]]]},"properties":{"name":"SA4 5","description":"SA4 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

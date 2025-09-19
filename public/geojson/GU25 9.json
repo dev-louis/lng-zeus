@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.5627685,51.4017180464363],[-0.5627685,51.4000015321252],[-0.56212102650982,51.4002063342836],[-0.561872446048108,51.400822552165],[-0.561721107714413,51.4020543146027],[-0.562297957750369,51.4021022040397],[-0.5627685,51.4017180464363]]]},"properties":{"name":"GU25 9","description":"GU25 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

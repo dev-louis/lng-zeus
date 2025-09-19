@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.02499046583872,51.8112840477126],[1.02544256822226,51.8116417678975],[1.02492238377365,51.8121009932311],[1.02470040392445,51.8120751256606],[1.02499046583872,51.8112840477126]]]},"properties":{"name":"CO7 5","description":"CO7 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-6.38521983195831,54.4482143905592],[-6.38536115229331,54.4524454873358],[-6.38828059931679,54.4505671373946],[-6.38806959565656,54.4473634612855],[-6.38628131402086,54.4470579056464],[-6.38521983195831,54.4482143905592]]]},"properties":{"name":"BT64 9","description":"BT64 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

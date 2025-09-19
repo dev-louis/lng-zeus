@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.553739356405641,51.5872543823668],[-0.554041094744883,51.5873907182678],[-0.554041793578005,51.5873882889908],[-0.553974839595779,51.58675222616],[-0.553739356405641,51.5872543823668]]]},"properties":{"name":"SL9 1","description":"SL9 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.135443270392772,51.5311265151057],[-0.135350959134606,51.52992646875],[-0.13493211896143,51.5307191662615],[-0.13526864661477,51.531306739945],[-0.135332069741374,51.5313739117229],[-0.135346252520159,51.531358906754],[-0.135443270392772,51.5311265151057]]]},"properties":{"name":"NW1W 7","description":"NW1W 7 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

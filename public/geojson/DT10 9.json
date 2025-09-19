@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.30195478833062,50.9291516621439],[-2.30174145742421,50.9286551577977],[-2.30105411682217,50.928605649471],[-2.30029300957791,50.9289814178391],[-2.30054232442764,50.9297570038173],[-2.30195478833062,50.9291516621439]]]},"properties":{"name":"DT10 9","description":"DT10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

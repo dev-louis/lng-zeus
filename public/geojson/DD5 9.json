@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.88867104449033,56.485075964218],[-2.88877045627907,56.4844692470951],[-2.88842250170816,56.483619421667],[-2.88820301580361,56.4833917768623],[-2.88660912083799,56.4830789255777],[-2.88655145627275,56.48413392501],[-2.88867104449033,56.485075964218]]]},"properties":{"name":"DD5 9","description":"DD5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

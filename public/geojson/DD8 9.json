@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.00453062347886,56.6737287057789],[-3.00415208911951,56.6737439829503],[-3.00416462745098,56.6738055347594],[-3.00453939076229,56.6739077429352],[-3.00453062347886,56.6737287057789]]]},"properties":{"name":"DD8 9","description":"DD8 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

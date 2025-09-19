@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.57364023201181,51.4582092012188],[-2.57346628106298,51.4590471059117],[-2.57456614377707,51.4587251302169],[-2.57428815421936,51.4581082052306],[-2.57379620895381,51.4580602166738],[-2.57364023201181,51.4582092012188]]]},"properties":{"name":"BS99 6","description":"BS99 6 postcode sectorDetails","styleUrl":"#stylePostcode","fill-opacity":0,"fill":"#0000ff","stroke-width":3}}
+]}

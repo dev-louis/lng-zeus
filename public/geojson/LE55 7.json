@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.12530083724411,52.6323895803281],[-1.12476539125608,52.6334015476261],[-1.12546774692058,52.6337921892545],[-1.12598895669874,52.6332165702605],[-1.12540677644228,52.6323348868663],[-1.12530083724411,52.6323895803281]]]},"properties":{"name":"LE55 7","description":"LE55 7 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

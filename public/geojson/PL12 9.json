@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.21371333540522,50.4087385047812],[-4.21394373943662,50.4083492507655],[-4.21382384064376,50.407864442603],[-4.21348819101597,50.408218940806],[-4.21371333540522,50.4087385047812]]]},"properties":{"name":"PL12 9","description":"PL12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

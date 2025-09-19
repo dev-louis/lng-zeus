@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.91383805652176,50.7402231195653],[-1.91365542377687,50.739750231208],[-1.91299978559824,50.7404200748805],[-1.91321764402876,50.7407401299757],[-1.91383805652176,50.7402231195653]]]},"properties":{"name":"BH12 9","description":"BH12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

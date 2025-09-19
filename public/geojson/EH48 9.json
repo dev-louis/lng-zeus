@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.62830211225959,55.8843118316111],[-3.62575234861941,55.8845791724907],[-3.62547764863637,55.8854258947914],[-3.6255373352447,55.8855210154607],[-3.62700161849157,55.8862625722551],[-3.62830211225959,55.8843118316111]]]},"properties":{"name":"EH48 9","description":"EH48 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

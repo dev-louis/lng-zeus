@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.026597354885358,51.5918082729802],[0.02693517164675,51.5916982412351],[0.026820476182814,51.5921304137431],[0.026588996433669,51.5920255927247],[0.026597354885358,51.5918082729802]]]},"properties":{"name":"E18 9","description":"E18 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

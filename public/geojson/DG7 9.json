@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.9297729563264,54.9411939672446],[-3.92922119987447,54.9407801499061],[-3.9290533125492,54.9410647687049],[-3.92932452041971,54.9413980541743],[-3.9297729563264,54.9411939672446]]]},"properties":{"name":"DG7 9","description":"DG7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.333501884615405,52.0385479615385],[-0.333027170708585,52.0373611767718],[-0.33283051930134,52.0375551025878],[-0.332716482606297,52.0379176510215],[-0.332974036016591,52.0385289865888],[-0.333501884615405,52.0385479615385]]]},"properties":{"name":"SG17 9","description":"SG17 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

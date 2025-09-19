@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.34716430339273,55.8245766505002],[-4.3479826381992,55.8247128636486],[-4.3482347619726,55.8245288190635],[-4.34751631963561,55.8235910050205],[-4.34716430339273,55.8245766505002]]]},"properties":{"name":"G53 9","description":"G53 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

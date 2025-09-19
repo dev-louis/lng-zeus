@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.53883307465615,53.810925481336],[-1.53714156358651,53.8113483591033],[-1.53696168403117,53.811484520251],[-1.53721825190618,53.8119088347611],[-1.53783686193272,53.8119522527319],[-1.53883307465615,53.810925481336]]]},"properties":{"name":"LS6 9","description":"LS6 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

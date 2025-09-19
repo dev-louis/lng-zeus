@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.20554724087591,50.5947152810219],[-1.20592753255562,50.5943695613131],[-1.2057682152265,50.5942155941928],[-1.20560863419063,50.5942304728634],[-1.20541252462176,50.5944930602522],[-1.20554724087591,50.5947152810219]]]},"properties":{"name":"PO38 9","description":"PO38 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.083306,51.4191566822034],[-0.083306,51.4186824548387],[-0.082957570550783,51.4185835458338],[-0.083281608081277,51.4191705318522],[-0.083306,51.4191566822034]]]},"properties":{"name":"SE19 9","description":"SE19 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

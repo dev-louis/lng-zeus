@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.2340399811594,53.7876918655074],[-1.23379297303102,53.787112005993],[-1.23101649291979,53.7877290015734],[-1.23188939774806,53.7887643844134],[-1.2340399811594,53.7876918655074]]]},"properties":{"name":"LS25 9","description":"LS25 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

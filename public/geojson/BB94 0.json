@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.138884927404,53.9148485395256],[-2.13811007293847,53.9139339463487],[-2.13741088856471,53.9151064073826],[-2.13813036353674,53.9155872999805],[-2.13862402741391,53.9153145709205],[-2.138884927404,53.9148485395256]]]},"properties":{"name":"BB94 0","description":"BB94 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

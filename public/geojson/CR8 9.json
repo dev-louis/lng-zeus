@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.103414,51.3466312],[-0.103414,51.3463577618182],[-0.103015043175884,51.3460124828213],[-0.102838653743721,51.3459851029692],[-0.102959660869243,51.3466715857005],[-0.103414,51.3466312]]]},"properties":{"name":"CR8 9","description":"CR8 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

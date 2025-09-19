@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.83650855200997,50.515815218632],[-4.8365604293522,50.5156977871937],[-4.83632942552555,50.5152600957326],[-4.83631577391569,50.5152620507367],[-4.83644254291072,50.5158254684921],[-4.83650855200997,50.515815218632]]]},"properties":{"name":"PL27 9","description":"PL27 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

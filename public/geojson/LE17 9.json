@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.19687498646329,52.4681476382991],[-1.19670562887042,52.4682394668847],[-1.19751953991069,52.4705720168172],[-1.19804233879681,52.4699961973133],[-1.19861118097334,52.4692710582769],[-1.19687498646329,52.4681476382991]]]},"properties":{"name":"LE17 9","description":"LE17 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

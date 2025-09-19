@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.17433194047619,53.115561],[-2.17375853937948,53.115561],[-2.17355961884925,53.1162277816173],[-2.17439290404047,53.1158622317294],[-2.17433194047619,53.115561]]]},"properties":{"name":"ST8 9","description":"ST8 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

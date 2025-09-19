@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.0600260916665,51.7704292239323],[0.061003286220045,51.7689531674533],[0.062351883487225,51.7710509854253],[0.062091185924385,51.7716882000097],[0.0600260916665,51.7704292239323]]]},"properties":{"name":"CM92 1","description":"CM92 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.15301034887384,53.5108904712553],[-2.15299771428572,53.5107783392857],[-2.15199132844575,53.5106525410557],[-2.15250439277333,53.5110873413333],[-2.15301034887384,53.5108904712553]]]},"properties":{"name":"M35 5","description":"M35 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.753932326619871,52.2406997517527],[0.754561294308268,52.2413016180177],[0.754323664604784,52.2417642917405],[0.752929543707316,52.2429311770732],[0.75272770899883,52.2428831211902],[0.753932326619871,52.2406997517527]]]},"properties":{"name":"IP33 9","description":"IP33 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

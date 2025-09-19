@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.49926952709359,51.415586],[-2.499714379696,51.4150547936571],[-2.49969590376147,51.4149802454096],[-2.49953463457597,51.4148422829352],[-2.49881308556892,51.415582820074],[-2.49881365972223,51.415586],[-2.49926952709359,51.415586]]]},"properties":{"name":"BS31 9","description":"BS31 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

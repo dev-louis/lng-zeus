@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.47017657702091,52.4795794185981],[-1.47022257630174,52.4803669262858],[-1.4702552487303,52.4803500390132],[-1.47062119554479,52.4799308323337],[-1.47060510972904,52.479781081049],[-1.47017657702091,52.4795794185981]]]},"properties":{"name":"CV12 2","description":"CV12 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

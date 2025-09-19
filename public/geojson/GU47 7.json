@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.802329787602575,51.3444071016418],[-0.802220635918444,51.3426606746913],[-0.801568283654063,51.3441988128157],[-0.802329787602575,51.3444071016418]]]},"properties":{"name":"GU47 7","description":"GU47 7 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

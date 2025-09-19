@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.262473008023665,52.2334684366554],[-0.262138077486949,52.232901631132],[-0.260616399004265,52.2334344317212],[-0.261914171034548,52.2337978078897],[-0.262294831830296,52.2337264849354],[-0.262473008023665,52.2334684366554]]]},"properties":{"name":"PE19 9","description":"PE19 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

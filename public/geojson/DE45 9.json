@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.67470645281254,53.2140575807176],[-1.67482420860927,53.2137292615894],[-1.67436082812972,53.2137035182294],[-1.6743808327636,53.2141460207309],[-1.67470645281254,53.2140575807176]]]},"properties":{"name":"DE45 9","description":"DE45 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

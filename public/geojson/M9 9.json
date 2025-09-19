@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.21609026419214,53.514572080786],[-2.21561500061029,53.5154547131523],[-2.21667307478794,53.5161733311853],[-2.21698053991881,53.5161456723985],[-2.21692428894751,53.5147284604276],[-2.21609026419214,53.514572080786]]]},"properties":{"name":"M9 9","description":"M9 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

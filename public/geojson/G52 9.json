@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.37408254166671,55.856166375],[-4.37343661706677,55.8557069028619],[-4.37281554040892,55.8561447053819],[-4.37278359640571,55.85682711698],[-4.37376307860581,55.8571247641814],[-4.37408254166671,55.856166375]]]},"properties":{"name":"G52 9","description":"G52 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

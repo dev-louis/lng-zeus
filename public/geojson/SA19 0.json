@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.98805930625029,51.8914567808057],[-3.98824044596795,51.892763574483],[-3.98868270399047,51.8928071659321],[-3.98909594869426,51.8899695522994],[-3.98805930625029,51.8914567808057]]]},"properties":{"name":"SA19 0","description":"SA19 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

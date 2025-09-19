@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.15155,51.4466448023033],[-0.15155,51.4460621633267],[-0.151319779666007,51.4461802723557],[-0.151160351617449,51.4466380713331],[-0.15155,51.4466448023033]]]},"properties":{"name":"SW12 2","description":"SW12 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

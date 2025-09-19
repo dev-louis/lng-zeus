@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.89362434697184,50.8083815249138],[-1.8936149044774,50.8081544758428],[-1.892904,50.8083886014177],[-1.892904,50.8090218333334],[-1.89362434697184,50.8083815249138]]]},"properties":{"name":"BH22 2","description":"BH22 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

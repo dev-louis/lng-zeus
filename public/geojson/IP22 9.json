@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.1090848365671,52.3768869513749],[1.10951358434798,52.3762551125394],[1.10951788062601,52.3762569458046],[1.10978935134176,52.3768967228268],[1.10970008410025,52.3775392195332],[1.1090848365671,52.3768869513749]]]},"properties":{"name":"IP22 9","description":"IP22 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

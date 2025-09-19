@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-5.53966015289257,50.1190855909091],[-5.53980113797625,50.1185815692349],[-5.53958964245415,50.1186977834979],[-5.53966015289257,50.1190855909091]]]},"properties":{"name":"TR18 9","description":"TR18 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.08352856112176,55.8191398013539],[-4.08315078144151,55.8189431972263],[-4.08311728741384,55.8190048180845],[-4.0832948687151,55.8198993016761],[-4.08352856112176,55.8191398013539]]]},"properties":{"name":"G71 9","description":"G71 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

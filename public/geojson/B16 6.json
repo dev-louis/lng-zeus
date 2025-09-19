@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.93067291463414,52.4735053048781],[-1.93000400649352,52.4732823354979],[-1.93028305174402,52.4740640199496],[-1.93067291463414,52.4735053048781]]]},"properties":{"name":"B16 6","description":"B16 6 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

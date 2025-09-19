@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.75884842926311,51.4326062658235],[-2.75870155217909,51.4322009232215],[-2.7585316774835,51.4323652099337],[-2.758616501828,51.4327045073126],[-2.75877840473547,51.432725508869],[-2.75884842926311,51.4326062658235]]]},"properties":{"name":"BS48 9","description":"BS48 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

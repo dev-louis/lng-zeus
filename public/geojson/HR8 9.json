@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.42347144506952,52.0483478598188],[-2.42493910696251,52.0474884876593],[-2.4242677119558,52.0448507423912],[-2.42261604389253,52.0445204087781],[-2.42209032444255,52.0452966811953],[-2.42347144506952,52.0483478598188]]]},"properties":{"name":"HR8 9","description":"HR8 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

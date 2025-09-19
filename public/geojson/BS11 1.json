@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.69576032450336,51.4997896490066],[-2.69621965502535,51.4994238858132],[-2.69621267229978,51.4993448707607],[-2.69563884002841,51.4994282274485],[-2.69560777049183,51.4994845409836],[-2.69576032450336,51.4997896490066]]]},"properties":{"name":"BS11 1","description":"BS11 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

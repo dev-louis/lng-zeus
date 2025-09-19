@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.37641778252786,57.2871799275092],[-2.37639642358553,57.287103164765],[-2.37540981657684,57.286064038752],[-2.37478605900938,57.2861282644892],[-2.37462562638577,57.2865825421287],[-2.37641778252786,57.2871799275092]]]},"properties":{"name":"AB51 1","description":"AB51 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

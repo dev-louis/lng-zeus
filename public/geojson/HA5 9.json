@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.385288010769863,51.595990245644],[-0.385146859081392,51.5949551332637],[-0.384981124398668,51.5949801661065],[-0.384960505017978,51.5958539123624],[-0.385288010769863,51.595990245644]]]},"properties":{"name":"HA5 9","description":"HA5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

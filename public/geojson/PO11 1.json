@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.986230622186496,50.7901914131833],[-0.98672337517195,50.7894746815681],[-0.986338303537759,50.7890367569645],[-0.98631333445079,50.7890688895964],[-0.986230622186496,50.7901914131833]]]},"properties":{"name":"PO11 1","description":"PO11 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

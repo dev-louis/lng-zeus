@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.03261958471543,52.058525037203],[-0.03203570522796,52.0568901746386],[-0.031364542449986,52.0581453361974],[-0.03188986499703,52.0589578747546],[-0.03261958471543,52.058525037203]]]},"properties":{"name":"SG8 1","description":"SG8 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

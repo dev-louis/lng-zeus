@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.62850076374609,53.5868515755476],[-1.62854288330957,53.5882026415454],[-1.63018274384636,53.5879596083222],[-1.62942726435146,53.5866778566841],[-1.6284007349779,53.5848724349199],[-1.62850076374609,53.5868515755476]]]},"properties":{"name":"HD8 1","description":"HD8 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

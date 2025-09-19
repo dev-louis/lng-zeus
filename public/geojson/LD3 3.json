@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.41161880714903,51.9418978523111],[-3.41219787540967,51.9431684829849],[-3.41394161900805,51.9410013080775],[-3.41285855549638,51.9392787408391],[-3.411676,51.9412496666667],[-3.41161880714903,51.9418978523111]]]},"properties":{"name":"LD3 3","description":"LD3 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

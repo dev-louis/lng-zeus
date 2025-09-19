@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.73647410776781,51.1881482004818],[-1.73375091118399,51.1828081360311],[-1.73358892121891,51.1889438611995],[-1.73534321992606,51.1907104334517],[-1.73647410776781,51.1881482004818]]]},"properties":{"name":"SP4 5","description":"SP4 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

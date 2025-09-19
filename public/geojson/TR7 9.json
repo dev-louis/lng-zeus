@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-5.08012969409445,50.4141295052354],[-5.07988256869395,50.4138657463945],[-5.07968221541521,50.4138585531406],[-5.07985259024456,50.4146914967512],[-5.08012969409445,50.4141295052354]]]},"properties":{"name":"TR7 9","description":"TR7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

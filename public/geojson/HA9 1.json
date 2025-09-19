@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.274585879021029,51.56683655878],[-0.274802181284604,51.5662161918712],[-0.274701538138029,51.5660090011802],[-0.273149275377936,51.5665671552364],[-0.273465454184887,51.5671299110727],[-0.274585879021029,51.56683655878]]]},"properties":{"name":"HA9 1","description":"HA9 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

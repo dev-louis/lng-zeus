@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.10940482260088,51.0011735724447],[-0.109337333843845,51.0012255488606],[-0.10912096705007,51.0025913642469],[-0.109185749771064,51.0026523140426],[-0.10940482260088,51.0011735724447]]]},"properties":{"name":"RH16 9","description":"RH16 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

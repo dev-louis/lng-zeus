@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.163455,51.4701408738636],[-3.163455,51.468521024635],[-3.1628468691306,51.4685603090014],[-3.16240024633238,51.4691991805059],[-3.16219354003179,51.4697353103916],[-3.16306728727454,51.4702721674911],[-3.163455,51.4701408738636]]]},"properties":{"name":"CF11 1","description":"CF11 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

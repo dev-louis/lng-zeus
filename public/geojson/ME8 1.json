@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5755265,51.365377619403],[0.576245247688652,51.3665951994427],[0.5755265,51.3670829840556],[0.5755265,51.365377619403]]]},"properties":{"name":"ME8 1","description":"ME8 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

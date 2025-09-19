@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.45518509824246,52.749293360839],[-1.45620032709385,52.7485746610776],[-1.45574960935027,52.7475662058522],[-1.45346662377078,52.745881413165],[-1.45283850919244,52.7489272893931],[-1.45518509824246,52.749293360839]]]},"properties":{"name":"LE55 8","description":"LE55 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

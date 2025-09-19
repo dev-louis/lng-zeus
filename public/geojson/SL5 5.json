@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.653439953766093,51.4023086677873],[-0.653408439999988,51.40174142],[-0.652857930949844,51.4013897058846],[-0.652270396471021,51.401612046274],[-0.653343683145907,51.402471881554],[-0.653439953766093,51.4023086677873]]]},"properties":{"name":"SL5 5","description":"SL5 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

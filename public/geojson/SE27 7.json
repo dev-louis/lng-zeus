@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.09936,51.4301312150538],[-0.09936,51.4292167929227],[-0.098521961538463,51.4290904830628],[-0.098397504558207,51.4292224569402],[-0.0989592518999,51.4300681452159],[-0.09936,51.4301312150538]]]},"properties":{"name":"SE27 7","description":"SE27 7 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.79050507200992,55.4222730799037],[-2.79100926200591,55.422982652042],[-2.79155953168044,55.422716335629],[-2.79134699583812,55.4215828111366],[-2.79086357252985,55.4216652909428],[-2.79050507200992,55.4222730799037]]]},"properties":{"name":"TD9 1","description":"TD9 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.77678963157895,50.2839723492823],[-3.77661862083244,50.283921654397],[-3.77695445840129,50.2843507801795],[-3.77703139498328,50.2842800481605],[-3.77678963157895,50.2839723492823]]]},"properties":{"name":"TQ7 9","description":"TQ7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

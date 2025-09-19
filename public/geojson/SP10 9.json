@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.48180014098316,51.2061677616402],[-1.48160901061173,51.2060229875156],[-1.48147609253559,51.2060917702963],[-1.48145554484703,51.20612406763],[-1.48165376327952,51.2065190681295],[-1.48180014098316,51.2061677616402]]]},"properties":{"name":"SP10 9","description":"SP10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

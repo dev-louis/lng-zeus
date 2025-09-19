@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.421076377000366,51.4206409170078],[-0.421039003033601,51.4198560637065],[-0.420822823156077,51.4197036084944],[-0.420623197789788,51.4200518438556],[-0.420929254169576,51.4205461788213],[-0.421076377000366,51.4206409170078]]]},"properties":{"name":"TW16 9","description":"TW16 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

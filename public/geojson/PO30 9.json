@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.29555038547364,50.7062313313877],[-1.29553025813544,50.7061600667798],[-1.29405158410099,50.7070050233709],[-1.29365128550459,50.7079577859048],[-1.29555038547364,50.7062313313877]]]},"properties":{"name":"PO30 9","description":"PO30 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.36219969364909,53.1438981278754],[-2.36218882038835,53.1438935],[-2.36169042962963,53.1438935],[-2.36163179541293,53.1439871759675],[-2.36176286334896,53.1441888561495],[-2.36219969364909,53.1438981278754]]]},"properties":{"name":"CW11 5","description":"CW11 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

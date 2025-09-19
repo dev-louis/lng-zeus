@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.058708549404604,50.8045947776792],[-0.058414056755935,50.8046021233009],[-0.058179178874551,50.805090777284],[-0.05820374333416,50.8051078139253],[-0.058616624789781,50.805008438446],[-0.058708549404604,50.8045947776792]]]},"properties":{"name":"BN51 9","description":"BN51 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

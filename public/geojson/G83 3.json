@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.57827370276236,55.9944236262613],[-4.57833858840352,55.9925533930751],[-4.57831069431853,55.9925039170442],[-4.57765727676123,55.9944641697164],[-4.57827370276236,55.9944236262613]]]},"properties":{"name":"G83 3","description":"G83 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

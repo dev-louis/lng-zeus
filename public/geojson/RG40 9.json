@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.835069,51.4108879537815],[-0.835069,51.4104507592105],[-0.83491682326197,51.4105560815319],[-0.835006647902213,51.410969692666],[-0.835069,51.4108879537815]]]},"properties":{"name":"RG40 9","description":"RG40 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

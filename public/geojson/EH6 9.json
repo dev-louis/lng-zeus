@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.12466240625,55.956821453125],[-3.12464759375,55.956616546875],[-3.12459840559677,55.9560672791639],[-3.12388744353219,55.9556059101645],[-3.123886559426,55.9556065880677],[-3.12357389759041,55.9562771987951],[-3.12466240625,55.956821453125]]]},"properties":{"name":"EH6 9","description":"EH6 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

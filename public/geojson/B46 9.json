@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.70552458877786,52.4980177943889],[-1.70509049862053,52.4986098485863],[-1.70510607338992,52.4986174103381],[-1.70589142128398,52.4985404948227],[-1.70596628113879,52.4982386405694],[-1.70552458877786,52.4980177943889]]]},"properties":{"name":"B46 9","description":"B46 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.226333937586526,51.7646347503457],[-0.22610803248261,51.7637311299304],[-0.226035866351116,51.7637193520751],[-0.225855641559663,51.7643975944855],[-0.226099127041153,51.7647751140422],[-0.226333937586526,51.7646347503457]]]},"properties":{"name":"AL10 1","description":"AL10 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

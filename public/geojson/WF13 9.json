@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.63473244359018,53.688666737586],[-1.63475513948799,53.6875820628033],[-1.63362592451904,53.6878831867949],[-1.63415120203168,53.6886092558728],[-1.63473244359018,53.688666737586]]]},"properties":{"name":"WF13 9","description":"WF13 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

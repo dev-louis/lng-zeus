@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.31781775,55.875420875],[-4.317652303839,55.8753294442268],[-4.31755685234493,55.875350824258],[-4.31734133339515,55.8755901816469],[-4.31769711607143,55.8757224598214],[-4.31781775,55.875420875]]]},"properties":{"name":"G11 9","description":"G11 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

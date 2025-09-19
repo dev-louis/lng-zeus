@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.75044766246541,52.7128000537137],[-2.75059136598037,52.71257890251],[-2.75075188515875,52.7121622543694],[-2.75016273193639,52.7119620287021],[-2.74975552212953,52.7124858154715],[-2.75044766246541,52.7128000537137]]]},"properties":{"name":"SY99 8","description":"SY99 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

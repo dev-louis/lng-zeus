@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.68411728049968,53.7595644307097],[-2.68406987739606,53.759778092206],[-2.68461894125689,53.7602278864162],[-2.68501390446481,53.7595508066316],[-2.68424224852322,53.7594386856829],[-2.68411728049968,53.7595644307097]]]},"properties":{"name":"PR11 1","description":"PR11 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

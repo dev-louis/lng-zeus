@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.488033808338889,52.9349058942116],[0.488107731155769,52.9346500075377],[0.488956285753282,52.9343105856986],[0.48886304231832,52.9350826012354],[0.488746820105658,52.9352803584137],[0.488033808338889,52.9349058942116]]]},"properties":{"name":"PE36 9","description":"PE36 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

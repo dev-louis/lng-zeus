@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.57213532296137,51.9119320221298],[-2.57077999127797,51.9121014385907],[-2.57108243414664,51.9124620559113],[-2.57185770067201,51.9124991613356],[-2.57210595185049,51.91218010312],[-2.57213532296137,51.9119320221298]]]},"properties":{"name":"HR9 9","description":"HR9 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

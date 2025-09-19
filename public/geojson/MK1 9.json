@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.718618553164458,52.0059243116451],[-0.717863477080494,52.0043386518692],[-0.716676683294538,52.0042854981707],[-0.714535990105992,52.0059239518035],[-0.717544967544978,52.0064687143856],[-0.718618553164458,52.0059243116451]]]},"properties":{"name":"MK1 9","description":"MK1 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

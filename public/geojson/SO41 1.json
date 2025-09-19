@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.54405696473141,50.7574380282148],[-1.54405489248765,50.7573305675739],[-1.54351052408255,50.7573002647601],[-1.54349649636369,50.7573442680607],[-1.54377530857147,50.7576633531429],[-1.54405696473141,50.7574380282148]]]},"properties":{"name":"SO41 1","description":"SO41 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

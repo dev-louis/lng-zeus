@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.72357812627797,53.2990707734709],[-2.72356447032879,53.2984089851644],[-2.72318361638591,53.298218558193],[-2.72280115699392,53.2987706201129],[-2.72305052752621,53.2990208388443],[-2.72357812627797,53.2990707734709]]]},"properties":{"name":"WA6 1","description":"WA6 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

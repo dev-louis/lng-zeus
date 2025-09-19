@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.14279650977295,53.2478987856063],[-3.14400185522728,53.2480658256063],[-3.14245032960894,53.2464535],[-3.14093015942925,53.2464535],[-3.1408757646093,53.2467160282929],[-3.14279650977295,53.2478987856063]]]},"properties":{"name":"CH6 9","description":"CH6 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

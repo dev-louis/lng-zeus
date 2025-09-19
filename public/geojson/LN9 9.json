@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.116851403656397,53.2094092028439],[-0.116670249394499,53.2089973599516],[-0.11630909742351,53.2089684677939],[-0.116312242877506,53.2092031186619],[-0.116851403656397,53.2094092028439]]]},"properties":{"name":"LN9 9","description":"LN9 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

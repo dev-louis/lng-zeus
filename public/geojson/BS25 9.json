@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.83411488333298,51.3201370733093],[-2.83323361289512,51.320099293889],[-2.83101603798897,51.3220200671403],[-2.83227593973483,51.3221816378734],[-2.83496690960329,51.3220019979429],[-2.83411488333298,51.3201370733093]]]},"properties":{"name":"BS25 9","description":"BS25 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

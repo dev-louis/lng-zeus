@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.72979913548689,54.9411867824889],[-2.7296735597417,54.9393297104109],[-2.72924176239739,54.9393960489445],[-2.72860374564452,54.9403253636004],[-2.72906865495494,54.9411889018715],[-2.72979913548689,54.9411867824889]]]},"properties":{"name":"CA8 0","description":"CA8 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

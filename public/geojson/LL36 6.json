@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.08141236218288,52.5884763449745],[-4.08133998750846,52.5880759168692],[-4.08035534048148,52.5887487590043],[-4.08035425211707,52.5889047216243],[-4.08141236218288,52.5884763449745]]]},"properties":{"name":"LL36 6","description":"LL36 6 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

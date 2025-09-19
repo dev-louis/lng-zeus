@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.5787676098044,54.7784750446616],[-1.57697679457331,54.7786539992666],[-1.57720312721163,54.7802133586538],[-1.5787676098044,54.7784750446616]]]},"properties":{"name":"DH97 1","description":"DH97 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.25963029762759,53.3971897065979],[-2.25962506069031,53.3971852774569],[-2.25838888971232,53.3972625381429],[-2.25818275355718,53.397784986674],[-2.25806588162283,53.3986940970485],[-2.25963029762759,53.3971897065979]]]},"properties":{"name":"M22 2","description":"M22 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

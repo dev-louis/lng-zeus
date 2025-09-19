@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.074025017154402,51.5582145590317],[0.074595042255828,51.558143814845],[0.074622407307562,51.5581858087645],[0.074412373630773,51.5593709987978],[0.07439805067704,51.5594004894907],[0.07404008961075,51.5590823018762],[0.074025017154402,51.5582145590317]]]},"properties":{"name":"IG1 8","description":"IG1 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

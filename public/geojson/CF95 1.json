@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.17022980044437,51.4816648486358],[-3.17120942783822,51.4815246996301],[-3.17131870941437,51.4813858045813],[-3.17098190819038,51.4808298518759],[-3.16985240451658,51.4812216535857],[-3.17022980044437,51.4816648486358]]]},"properties":{"name":"CF95 1","description":"CF95 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

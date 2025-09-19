@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.48611919823222,57.0574237493688],[-2.48652168326442,57.0571815761714],[-2.48488501327488,57.0569829690266],[-2.48611919823222,57.0574237493688]]]},"properties":{"name":"AB31 9","description":"AB31 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

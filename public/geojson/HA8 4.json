@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.277825876453501,51.6132925116279],[-0.277779861648371,51.6129243931876],[-0.277598234558408,51.6130029694464],[-0.277520158116523,51.6132643995969],[-0.277825876453501,51.6132925116279]]]},"properties":{"name":"HA8 4","description":"HA8 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

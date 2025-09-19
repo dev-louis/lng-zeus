@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.21098955853609,52.9434492359654],[1.21099630327268,52.9433221738308],[1.21183829274351,52.9427995596764],[1.21201279530842,52.9430500971884],[1.21201515844489,52.9430895835501],[1.21169786524889,52.9433306846299],[1.21098955853609,52.9434492359654]]]},"properties":{"name":"NR26 9","description":"NR26 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

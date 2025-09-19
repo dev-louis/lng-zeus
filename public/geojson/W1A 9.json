@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.134251,51.5166854933252],[-0.134251,51.517303254902],[-0.134420502606302,51.5173641872114],[-0.134647774131643,51.5172637753343],[-0.134642483391741,51.5171949044959],[-0.134461743889258,51.5167455962548],[-0.134251,51.5166854933252]]]},"properties":{"name":"W1A 9","description":"W1A 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

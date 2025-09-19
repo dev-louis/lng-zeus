@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.96858500125376,53.4744630062681],[-2.96953532557859,53.4728623203243],[-2.96954306136415,53.4727678828972],[-2.96826996077692,53.472887803885],[-2.96858500125376,53.4744630062681]]]},"properties":{"name":"L69 1","description":"L69 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

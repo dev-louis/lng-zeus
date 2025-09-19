@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.33287987349401,55.7730730361446],[-4.33266655901761,55.7727124331012],[-4.33195083401252,55.7730553535368],[-4.33231514041863,55.7744472367345],[-4.33246509997742,55.7744210500722],[-4.33287987349401,55.7730730361446]]]},"properties":{"name":"G77 9","description":"G77 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.322481689227151,50.8121873975171],[0.323551073696538,50.811990596045],[0.323801884920276,50.8127380980349],[0.322711978675024,50.8135230763172],[0.322481689227151,50.8121873975171]]]},"properties":{"name":"BN24 9","description":"BN24 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

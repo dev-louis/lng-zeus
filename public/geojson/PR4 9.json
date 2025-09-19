@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.8716235530665,53.7777852818891],[-2.87217423911925,53.7783951865097],[-2.87346745745202,53.777946699969],[-2.87374185542941,53.7777479710856],[-2.8717946636317,53.7773585327264],[-2.8716235530665,53.7777852818891]]]},"properties":{"name":"PR4 9","description":"PR4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.94787452113772,55.7745570962044],[-3.94881132395468,55.7714344201509],[-3.94707348902081,55.7717592973047],[-3.94668941077194,55.7721145825389],[-3.94625940826057,55.7731240877296],[-3.94787452113772,55.7745570962044]]]},"properties":{"name":"ML2 2","description":"ML2 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

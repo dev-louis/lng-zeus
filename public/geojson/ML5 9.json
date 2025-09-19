@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.01785598203063,55.8591744244153],[-4.01691368639267,55.858948813386],[-4.01685918743931,55.8590039239236],[-4.01696080877105,55.8603789227594],[-4.01744540963641,55.8603034985002],[-4.01785598203063,55.8591744244153]]]},"properties":{"name":"ML5 9","description":"ML5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

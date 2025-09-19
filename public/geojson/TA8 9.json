@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.99358672890522,51.2373521120292],[-2.99389306038944,51.2368030401948],[-2.99383859611459,51.2362559875226],[-2.99353765191691,51.2358575003066],[-2.99301896348445,51.2363301342722],[-2.99358672890522,51.2373521120292]]]},"properties":{"name":"TA8 9","description":"TA8 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

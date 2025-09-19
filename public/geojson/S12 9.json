@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.42589802024582,53.3614179006071],[-1.42575878705248,53.3605104603918],[-1.42395125802021,53.3604100421122],[-1.42383892416633,53.3613392743594],[-1.42589802024582,53.3614179006071]]]},"properties":{"name":"S12 9","description":"S12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

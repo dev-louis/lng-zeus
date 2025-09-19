@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.86767374923704,55.7940215030519],[-4.86765198262235,55.7939841707767],[-4.86742757394612,55.7940284073946],[-4.86758043052108,55.7943947779156],[-4.86767374923704,55.7940215030519]]]},"properties":{"name":"KA30 0","description":"KA30 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

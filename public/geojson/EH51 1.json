@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.60912514743335,56.0382278368705],[-3.60747677702703,56.018587347973],[-3.60672731029854,56.0179575604865],[-3.60636222271678,56.0182140460661],[-3.60912514743335,56.0382278368705]]]},"properties":{"name":"EH51 1","description":"EH51 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

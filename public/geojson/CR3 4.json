@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.07400906923676,51.2792318153029],[-0.073863748307654,51.2792696592949],[-0.073409420422315,51.2799891590977],[-0.073961615937657,51.2798724348424],[-0.07400906923676,51.2792318153029]]]},"properties":{"name":"CR3 4","description":"CR3 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

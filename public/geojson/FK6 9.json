@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.90907817542087,56.0225962894947],[-3.90852623220811,56.022185290845],[-3.90818741946964,56.0222551466323],[-3.90806456849431,56.02237955762],[-3.90860543544116,56.0231635774706],[-3.90907817542087,56.0225962894947]]]},"properties":{"name":"FK6 9","description":"FK6 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

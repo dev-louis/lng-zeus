@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.53698002571425,51.7138353685713],[-2.53723260075241,51.7146324167456],[-2.53815962786375,51.7151337963461],[-2.53794475717471,51.7135941857064],[-2.53698002571425,51.7138353685713]]]},"properties":{"name":"GL15 9","description":"GL15 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

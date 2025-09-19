@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.27997692836692,53.4811818193158],[-2.28026566284886,53.4820557077099],[-2.28094857382846,53.481791257019],[-2.28103124876877,53.4813434035306],[-2.28089666234126,53.4812359213142],[-2.27997692836692,53.4811818193158]]]},"properties":{"name":"M5 0","description":"M5 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

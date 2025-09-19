@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.19528799170439,53.4440310046087],[-2.19474476097723,53.4437611137871],[-2.19471,53.4437661725572],[-2.19471,53.4443521111111],[-2.19528799170439,53.4440310046087]]]},"properties":{"name":"M19 0","description":"M19 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.51048219707928,53.4909962935673],[-2.50879782838967,53.4908910205244],[-2.50871349979974,53.4912411240542],[-2.50875951685953,53.4913183429253],[-2.50950404086134,53.4916580991326],[-2.51048219707928,53.4909962935673]]]},"properties":{"name":"WN7 9","description":"WN7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

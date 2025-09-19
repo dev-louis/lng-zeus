@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.262555739016303,52.0862147314998],[-0.262566471758903,52.086211799452],[-0.262238860347471,52.0854672280625],[-0.261963356139739,52.0856011494627],[-0.261910884494449,52.0858711929301],[-0.262555739016303,52.0862147314998]]]},"properties":{"name":"SG18 1","description":"SG18 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

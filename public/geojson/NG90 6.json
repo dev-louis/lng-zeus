@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.19526858687872,52.9253886924679],[-1.1951702499413,52.9248572624911],[-1.1948367308894,52.9231189392426],[-1.1914073370042,52.9265528995644],[-1.19135963884525,52.92858619188],[-1.19150988329876,52.9297382704378],[-1.19526858687872,52.9253886924679]]]},"properties":{"name":"NG90 6","description":"NG90 6 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

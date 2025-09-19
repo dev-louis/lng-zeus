@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.56755463685734,50.4369910459812],[-3.567726489,50.4366875286585],[-3.56771175370517,50.4366666747768],[-3.5674082523071,50.4365584032107],[-3.56724360899499,50.4366592829279],[-3.56755463685734,50.4369910459812]]]},"properties":{"name":"TQ4 9","description":"TQ4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.15617834398802,55.9279545093655],[-3.15617810673144,55.9279513220105],[-3.15572966579151,55.927658767683],[-3.15537969047619,55.9278601380952],[-3.15611822106826,55.9280078442136],[-3.15617834398802,55.9279545093655]]]},"properties":{"name":"EH16 9","description":"EH16 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

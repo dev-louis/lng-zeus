@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.52700227768596,54.4775783222314],[-3.52552581583495,54.4777259684167],[-3.52552145416147,54.4777374964583],[-3.52668367979009,54.4782220922654],[-3.52700227768596,54.4775783222314]]]},"properties":{"name":"CA22 9","description":"CA22 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

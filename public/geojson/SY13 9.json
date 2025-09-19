@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.68361988217918,52.9665815710806],[-2.68353942328643,52.9663044940989],[-2.68271359211588,52.9662409686244],[-2.68278528280782,52.9664994254732],[-2.68361988217918,52.9665815710806]]]},"properties":{"name":"SY13 9","description":"SY13 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

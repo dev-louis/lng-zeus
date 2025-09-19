@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.892580336515555,51.3150891348449],[0.892634649606209,51.314546003937],[0.892754412267082,51.3145132941929],[0.892938786663211,51.315112816236],[0.892580336515555,51.3150891348449]]]},"properties":{"name":"ME13 3","description":"ME13 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

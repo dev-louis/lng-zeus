@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.09426510211613,54.1951440982126],[-3.09462927011485,54.1948365],[-3.09477969918284,54.1947147574055],[-3.09466193303303,54.1945103984985],[-3.09427468750007,54.1948365],[-3.09395825053454,54.1950860840854],[-3.09426510211613,54.1951440982126]]]},"properties":{"name":"LA12 2","description":"LA12 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

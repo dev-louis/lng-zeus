@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.168154727818631,50.833912603513],[-0.168152119673414,50.8339111490885],[-0.167405678989181,50.8343673072844],[-0.167537401986685,50.8346262203018],[-0.167976191958141,50.8347457708629],[-0.168154727818631,50.833912603513]]]},"properties":{"name":"BN52 9","description":"BN52 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

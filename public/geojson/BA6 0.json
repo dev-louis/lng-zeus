@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.715103,51.148325],[-2.71498875830259,51.148134597171],[-2.71496986345141,51.1481285809],[-2.7148161854839,51.1481337903226],[-2.715103,51.148325]]]},"properties":{"name":"BA6 0","description":"BA6 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

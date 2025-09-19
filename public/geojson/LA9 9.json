@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.74696220331448,54.3299095573969],[-2.74692435245902,54.3297027295082],[-2.74667844117646,54.3297519117647],[-2.74696220331448,54.3299095573969]]]},"properties":{"name":"LA9 9","description":"LA9 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

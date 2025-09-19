@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.66866347871298,51.2314903085397],[-1.66859669263401,51.2314295719244],[-1.66824837365576,51.2322036140983],[-1.66836281773655,51.232317126224],[-1.66866347871298,51.2314903085397]]]},"properties":{"name":"SP9 9","description":"SP9 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

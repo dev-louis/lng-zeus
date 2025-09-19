@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.004031053746935,50.794082400983],[0.004484221510443,50.7940298428661],[0.00517117806358,50.7946844036446],[0.005210387682911,50.7951576706288],[0.004356972897084,50.7955043703856],[0.004283886025054,50.79549826174],[0.004031053746935,50.794082400983]]]},"properties":{"name":"BN10 9","description":"BN10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

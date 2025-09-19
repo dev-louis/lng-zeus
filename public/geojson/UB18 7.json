@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.40220335451591,51.499246578264],[-0.40156685749099,51.49943431274],[-0.401667318242658,51.5007665667605],[-0.402181361684717,51.5034507144434],[-0.402965210938839,51.5003244319532],[-0.40220335451591,51.499246578264]]]},"properties":{"name":"UB18 7","description":"UB18 7 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

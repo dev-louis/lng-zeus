@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.113490105269156,51.4690269079322],[-0.113588841070787,51.4690330267706],[-0.113559380112053,51.4682965028004],[-0.113522859459429,51.4682965510443],[-0.113415901646445,51.4685631352903],[-0.113490105269156,51.4690269079322]]]},"properties":{"name":"SW9 1","description":"SW9 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

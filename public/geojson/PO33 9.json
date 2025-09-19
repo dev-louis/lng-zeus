@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.15968810683024,50.7158794437387],[-1.15631081394784,50.7153004548095],[-1.15648791782066,50.7168444210722],[-1.15653174135786,50.7169688297584],[-1.15743711586792,50.7179428521211],[-1.15968810683024,50.7158794437387]]]},"properties":{"name":"PO33 9","description":"PO33 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

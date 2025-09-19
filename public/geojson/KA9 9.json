@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.611197,55.5019099079755],[-4.611197,55.5011462425743],[-4.61086415552444,55.5015169851832],[-4.61105314762173,55.5019813928996],[-4.611197,55.5019099079755]]]},"properties":{"name":"KA9 9","description":"KA9 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

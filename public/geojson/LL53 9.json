@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.42375616535097,52.8804518536377],[-4.42335118765849,52.8806662535926],[-4.42362763278603,52.8811948942751],[-4.42375616535097,52.8804518536377]]]},"properties":{"name":"LL53 9","description":"LL53 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

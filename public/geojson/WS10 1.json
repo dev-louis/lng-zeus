@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.02745061228748,52.561395619547],[-2.02779323723689,52.5605714124122],[-2.02633415821497,52.5600850527384],[-2.02614856047068,52.560318442351],[-2.02745061228748,52.561395619547]]]},"properties":{"name":"WS10 1","description":"WS10 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

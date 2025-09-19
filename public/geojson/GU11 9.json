@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.761079307820373,51.2488992296173],[-0.761158052219187,51.2481905300262],[-0.760838850872746,51.2484056439771],[-0.760979138190205,51.2488781210746],[-0.761079307820373,51.2488992296173]]]},"properties":{"name":"GU11 9","description":"GU11 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.25468052933429,51.6490812495856],[-3.25572064203007,51.6412821642872],[-3.25229601815548,51.6404080420775],[-3.25168700585575,51.640995254662],[-3.25025487023187,51.6443689432793],[-3.25468052933429,51.6490812495856]]]},"properties":{"name":"CF82 9","description":"CF82 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

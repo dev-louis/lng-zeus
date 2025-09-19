@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.43130378343127,50.9187743591721],[-1.43117714491865,50.9185767962564],[-1.43108685340752,50.9185515986253],[-1.43037936147044,50.9189807973351],[-1.43039686572293,50.9195805082464],[-1.43130378343127,50.9187743591721]]]},"properties":{"name":"SO15 9","description":"SO15 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

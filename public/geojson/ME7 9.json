@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.5466795,51.3863185300752],[0.547022415137416,51.3860761690006],[0.547010166572798,51.38642859361],[0.546719896375951,51.3866686080712],[0.5466795,51.3866651432749],[0.5466795,51.3863185300752]]]},"properties":{"name":"ME7 9","description":"ME7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

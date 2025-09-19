@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.32030224740637,51.1615935995512],[-3.31986045564848,51.1609669005688],[-3.3194176724812,51.1610587873263],[-3.3199649893191,51.1617484065421],[-3.32030224740637,51.1615935995512]]]},"properties":{"name":"TA4 9","description":"TA4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.07171361773131,50.7053781888615],[-3.07158861837529,50.7054537779312],[-3.07156524161849,50.7056488277457],[-3.07207446721307,50.7059883114753],[-3.07186165583364,50.7054343262971],[-3.07171361773131,50.7053781888615]]]},"properties":{"name":"EX12 9","description":"EX12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

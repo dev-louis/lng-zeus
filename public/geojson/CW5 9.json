@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.52183738297872,53.0682235],[-2.52119198703158,53.0682235],[-2.5211699533209,53.0682472444026],[-2.52134161257068,53.0685266767736],[-2.52182444308379,53.0684667700248],[-2.52183738297872,53.0682235]]]},"properties":{"name":"CW5 9","description":"CW5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

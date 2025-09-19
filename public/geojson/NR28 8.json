@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.38921507706093,52.8205410672043],[1.38930505300239,52.8209824356739],[1.38893938301314,52.8213612547552],[1.38859352174545,52.8211757014474],[1.38857669833565,52.8210198512483],[1.38921507706093,52.8205410672043]]]},"properties":{"name":"NR28 8","description":"NR28 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

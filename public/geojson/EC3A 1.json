@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.080074885791763,51.5132715152299],[-0.080682587889745,51.5134479448712],[-0.08087264673157,51.513341602424],[-0.080436046018621,51.5128384720786],[-0.080270627949183,51.5127529110082],[-0.080074885791763,51.5132715152299]]]},"properties":{"name":"EC3A 1","description":"EC3A 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

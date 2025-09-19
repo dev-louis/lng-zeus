@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.140246746165094,50.8205322444162],[-0.140074996302053,50.820543017257],[-0.140013392857143,50.8208305],[-0.140494865145228,50.8208305],[-0.140505068915938,50.8208117281775],[-0.140507722858534,50.8207353267998],[-0.140246746165094,50.8205322444162]]]},"properties":{"name":"BN50 8","description":"BN50 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

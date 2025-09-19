@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.053381630077626,51.4146909919449],[-0.053625522835708,51.4154538054649],[-0.053721,51.415419688946],[-0.053721,51.4146508279816],[-0.053381630077626,51.4146909919449]]]},"properties":{"name":"SE20 9","description":"SE20 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

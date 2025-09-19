@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.494933,51.4304371010261],[-3.494933,51.4432086274768],[-3.49597974744651,51.4432606407787],[-3.4970776725616,51.4333147309126],[-3.49556576269115,51.4304954038193],[-3.494933,51.4304371010261]]]},"properties":{"name":"CF71 9","description":"CF71 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

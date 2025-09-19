@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.50187513690462,53.7673407986237],[-1.50202376375368,53.7673160033152],[-1.50334161387427,53.7654743477171],[-1.49927016982453,53.7618844723184],[-1.50103476312057,53.7656273092199],[-1.50187513690462,53.7673407986237]]]},"properties":{"name":"LS88 8","description":"LS88 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

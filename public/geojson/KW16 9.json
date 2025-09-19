@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.30281000903466,58.9635061246783],[-3.30215346027439,58.9628965146982],[-3.30175554011099,58.962942221744],[-3.30163351224488,58.963434512245],[-3.30289632812498,58.9646973281247],[-3.30281000903466,58.9635061246783]]]},"properties":{"name":"KW16 9","description":"KW16 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

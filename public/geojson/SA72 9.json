@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.94151393087972,51.6938582432675],[-4.94182328744494,51.6937449258443],[-4.94186781589654,51.693062156253],[-4.94184597934291,51.6930286521291],[-4.94179313401826,51.69304390078],[-4.94151393087972,51.6938582432675]]]},"properties":{"name":"SA72 9","description":"SA72 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

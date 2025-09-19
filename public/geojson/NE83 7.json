@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.61655602851942,54.9343543762849],[-1.61455525958868,54.9339804476994],[-1.61341946623899,54.9354212924347],[-1.61342046652583,54.9354302913552],[-1.61654703009187,54.9343643752225],[-1.61655602851942,54.9343543762849]]]},"properties":{"name":"NE83 7","description":"NE83 7 postcode sectorDetails","styleUrl":"#stylePostcode","fill-opacity":0,"fill":"#0000ff","stroke-width":3}}
+]}

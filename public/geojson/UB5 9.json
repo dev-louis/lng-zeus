@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.370938066771019,51.5474774021919],[-0.37089642848661,51.5466029982196],[-0.3704823017149,51.5467114288885],[-0.370750294193511,51.5473774101973],[-0.370938066771019,51.5474774021919]]]},"properties":{"name":"UB5 9","description":"UB5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

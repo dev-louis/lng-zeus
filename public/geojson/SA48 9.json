@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.26777932038747,52.24187234932],[-4.27887732854235,52.2483909314789],[-4.26776814419008,52.2350710363716],[-4.26653945176349,52.2402749101782],[-4.26654048158456,52.2403289454957],[-4.26777932038747,52.24187234932]]]},"properties":{"name":"SA48 9","description":"SA48 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

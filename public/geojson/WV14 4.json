@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.07373353562818,52.5656338624737],[-2.07402497236005,52.565402739635],[-2.07334487915415,52.5651477046829],[-2.07349933002832,52.5654423054244],[-2.07373353562818,52.5656338624737]]]},"properties":{"name":"WV14 4","description":"WV14 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

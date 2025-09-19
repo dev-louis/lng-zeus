@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-6.65147581127969,54.349383351378],[-6.65096425051474,54.3490176171325],[-6.65040225727318,54.3504744915984],[-6.65084832373036,54.3506010499886],[-6.65147581127969,54.349383351378]]]},"properties":{"name":"BT61 0","description":"BT61 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

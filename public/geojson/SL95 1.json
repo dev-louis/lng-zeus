@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.533240757955448,51.498316367281],[-0.533965765213615,51.4975624624794],[-0.53409758300106,51.4972200375298],[-0.531404690547177,51.4972937236417],[-0.531817035605263,51.4981909616854],[-0.533240757955448,51.498316367281]]]},"properties":{"name":"SL95 1","description":"SL95 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

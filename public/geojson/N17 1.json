@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.071602235058033,51.5939951882248],[-0.071556467930425,51.5934230991315],[-0.070997895360419,51.5940069464785],[-0.071000098773639,51.5940243963281],[-0.071602235058033,51.5939951882248]]]},"properties":{"name":"N17 1","description":"N17 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

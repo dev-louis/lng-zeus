@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.42134374951861,56.2046567680837],[-3.42135928301361,56.2042608445833],[-3.42088240429833,56.2039835212689],[-3.420375385961,56.2043804795281],[-3.42045265940546,56.2050380765405],[-3.42134374951861,56.2046567680837]]]},"properties":{"name":"KY13 3","description":"KY13 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

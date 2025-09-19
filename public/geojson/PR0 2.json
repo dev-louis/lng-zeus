@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.68411728049968,53.7595644307097],[-2.68424224852322,53.7594386856829],[-2.68446908804973,53.7589644678397],[-2.68429137988827,53.7588005],[-2.68327506713781,53.7588005],[-2.68411728049968,53.7595644307097]]]},"properties":{"name":"PR0 2","description":"PR0 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.216327202198363,51.5625795203199],[0.216399375609038,51.5616051792793],[0.216721547015929,51.5615740571756],[0.216887021773791,51.5618385369154],[0.216736153236966,51.5622733033408],[0.216327202198363,51.5625795203199]]]},"properties":{"name":"RM12 9","description":"RM12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.58242928455641,51.6591714945976],[-1.58230732175616,51.6586023348624],[-1.58198745868794,51.6586892879295],[-1.58207643678313,51.6591293501367],[-1.58242928455641,51.6591714945976]]]},"properties":{"name":"SN7 9","description":"SN7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.30929864332887,53.253799309273],[-4.30894453976039,53.2535942506728],[-4.30797988983699,53.2539347153517],[-4.30793769151451,53.2541602297634],[-4.30874867477414,53.2545588211352],[-4.30929864332887,53.253799309273]]]},"properties":{"name":"LL77 9","description":"LL77 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

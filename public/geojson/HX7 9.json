@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.01357920584496,53.7406807862772],[-2.01383649950827,53.7409871620651],[-2.01463863740921,53.7406697693705],[-2.01439058471767,53.7406266943522],[-2.01357920584496,53.7406807862772]]]},"properties":{"name":"HX7 9","description":"HX7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

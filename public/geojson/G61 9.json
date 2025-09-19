@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-4.32033937010082,55.920088824748],[-4.32073763238767,55.9190931690307],[-4.31971063748031,55.9194014201025],[-4.32003202678103,55.9200492759441],[-4.32033937010082,55.920088824748]]]},"properties":{"name":"G61 9","description":"G61 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

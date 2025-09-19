@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.14451824919544,53.1677411212648],[-3.1445096562422,53.167640544653],[-3.14429589572193,53.1675055],[-3.14362819230769,53.1675055],[-3.14364162741641,53.1678548128265],[-3.14451824919544,53.1677411212648]]]},"properties":{"name":"CH7 9","description":"CH7 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.78552677487416,57.4473994195034],[-2.78491653524765,57.4476853772028],[-2.78565133124129,57.4477313019526],[-2.78552677487416,57.4473994195034]]]},"properties":{"name":"AB54 9","description":"AB54 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.17065734577112,52.4992618383085],[-2.16988860278064,52.4989543411121],[-2.16966952682075,52.4990918224543],[-2.16972801460901,52.4998236893837],[-2.16995837250996,52.4999857749004],[-2.17065734577112,52.4992618383085]]]},"properties":{"name":"DY6 6","description":"DY6 6 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

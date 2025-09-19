@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.174849666666653,51.4052193333333],[-0.174890118568415,51.4042080357939],[-0.174398878997347,51.4049116566207],[-0.174709762153084,51.4054191969242],[-0.174849666666653,51.4052193333333]]]},"properties":{"name":"CR4 9","description":"CR4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

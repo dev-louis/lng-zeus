@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.198759610704854,51.5800528863891],[-0.199163679910056,51.5807567488756],[-0.199100433631033,51.5799661703869],[-0.198851218633001,51.579975469454],[-0.198759610704854,51.5800528863891]]]},"properties":{"name":"NW11 1","description":"NW11 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

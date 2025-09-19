@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.008637383211662,51.5710743649635],[-0.008575130353654,51.5702028249492],[-0.00852548995406,51.5701493325127],[-0.008488722253012,51.570149968708],[-0.008424266445043,51.5710451882633],[-0.008637383211662,51.5710743649635]]]},"properties":{"name":"E10 9","description":"E10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

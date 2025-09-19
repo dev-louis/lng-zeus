@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.79872850754006,53.1392769976437],[-3.79887271037288,53.139794431338],[-3.79958012870123,53.1392678459156],[-3.79969255020172,53.1389757343119],[-3.79872850754006,53.1392769976437]]]},"properties":{"name":"LL26 9","description":"LL26 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

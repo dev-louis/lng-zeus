@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.725412430135921,51.510171601825],[0.730521776297056,51.529885408545],[0.729818769771785,51.532012047332],[0.729623797984623,51.532308431372],[0.728693325844287,51.5312246768199],[0.72376151509645,51.509973055961],[0.725412430135921,51.510171601825]]]},"properties":{"name":"SS99 0","description":"SS99 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

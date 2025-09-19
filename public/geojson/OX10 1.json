@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.13701362681472,51.5963612681478],[-1.13651047288624,51.5913297288505],[-1.13581621826457,51.5951090774472],[-1.13619730334924,51.5966513512016],[-1.13701362681472,51.5963612681478]]]},"properties":{"name":"OX10 1","description":"OX10 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

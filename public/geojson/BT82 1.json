@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-7.45850053495878,54.8360434894451],[-7.46051945727502,54.8344595328712],[-7.45966761427287,54.8336331807317],[-7.45790956979515,54.8339095189492],[-7.45760586691606,54.8361307184375],[-7.45850053495878,54.8360434894451]]]},"properties":{"name":"BT82 1","description":"BT82 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

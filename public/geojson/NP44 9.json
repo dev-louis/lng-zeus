@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.02298190955537,51.655273817238],[-3.02346355749934,51.6537698413461],[-3.02281406274661,51.6539975202578],[-3.0223304694021,51.6551259047291],[-3.02235264426167,51.655174438384],[-3.02298190955537,51.655273817238]]]},"properties":{"name":"NP44 9","description":"NP44 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

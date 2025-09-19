@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.25153584169903,51.3361805791507],[-2.25044817352809,51.3355205412008],[-2.25096953543301,51.3364637322834],[-2.25153584169903,51.3361805791507]]]},"properties":{"name":"BA15 5","description":"BA15 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

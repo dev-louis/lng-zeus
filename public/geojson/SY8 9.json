@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.69838796437725,52.3686933049521],[-2.69628238809933,52.3685313375461],[-2.69613770701843,52.3686269593821],[-2.69798974420372,52.3690930349652],[-2.69838796437725,52.3686933049521]]]},"properties":{"name":"SY8 9","description":"SY8 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

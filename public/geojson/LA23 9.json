@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.90578722861357,54.3782924089903],[-2.90576472310303,54.378281092299],[-2.90530047133397,54.3784358428886],[-2.90559756150305,54.3786575994791],[-2.90563454681203,54.3786567632895],[-2.90578722861357,54.3782924089903]]]},"properties":{"name":"LA23 9","description":"LA23 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

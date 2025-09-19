@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.56455332011447,52.4572228525842],[1.56458864159847,52.4572569657017],[1.56485877617015,52.4574843066779],[1.56468813287666,52.4577593991409],[1.56434085329342,52.4575357275449],[1.5640749969504,52.4574206553964],[1.56455332011447,52.4572228525842]]]},"properties":{"name":"NR34 4","description":"NR34 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

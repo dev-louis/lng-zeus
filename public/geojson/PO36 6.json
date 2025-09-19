@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.15720812151215,50.6533713987399],[-1.15718709271555,50.6532546526622],[-1.15692678747232,50.6531529117355],[-1.15669712649692,50.6536333866709],[-1.15677185917617,50.6537349506866],[-1.15720812151215,50.6533713987399]]]},"properties":{"name":"PO36 6","description":"PO36 6 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

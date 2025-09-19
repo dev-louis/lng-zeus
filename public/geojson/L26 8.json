@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.84276314676684,53.3778351522283],[-2.84247609217593,53.3761797111894],[-2.84164659060244,53.3749149115424],[-2.84000519107455,53.3753061753834],[-2.8404459189036,53.3769232252782],[-2.84276314676684,53.3778351522283]]]},"properties":{"name":"L26 8","description":"L26 8 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

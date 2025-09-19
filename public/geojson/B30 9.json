@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.92946938246029,52.4169721828046],[-1.93018118586218,52.4175102389194],[-1.93039707384283,52.4175281466782],[-1.9304462577309,52.4173023961704],[-1.92951582046669,52.4169036373431],[-1.92946938246029,52.4169721828046]]]},"properties":{"name":"B30 9","description":"B30 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

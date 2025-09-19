@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.099023059711184,51.5540970561007],[-0.09898914572796,51.553639217327],[-0.098726586080982,51.5536297678795],[-0.098712423407165,51.5543185888333],[-0.099023059711184,51.5540970561007]]]},"properties":{"name":"N5 9","description":"N5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

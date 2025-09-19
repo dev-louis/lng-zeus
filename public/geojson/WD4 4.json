@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.450778652109913,51.7130786885226],[-0.450953996017545,51.7123884354533],[-0.449824945380188,51.712551829178],[-0.449805389765126,51.7127238827087],[-0.450139076930519,51.7131646016064],[-0.450778652109913,51.7130786885226]]]},"properties":{"name":"WD4 4","description":"WD4 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

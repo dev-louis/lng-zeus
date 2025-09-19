@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.92467185825142,50.7577434775738],[-1.9245852655075,50.7573435200571],[-1.92429043403463,50.7574654548834],[-1.9238527056338,50.7584014485915],[-1.92397465384605,50.7583709615385],[-1.92467185825142,50.7577434775738]]]},"properties":{"name":"BH11 0","description":"BH11 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

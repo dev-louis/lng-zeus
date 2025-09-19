@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.34072441587441,51.2743328365019],[1.34090271383644,51.273619644654],[1.34111175231219,51.273839755083],[1.34108261201688,51.2742604213973],[1.34072441587441,51.2743328365019]]]},"properties":{"name":"CT13 3","description":"CT13 3 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

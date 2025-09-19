@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.78670641764706,57.5057999764706],[-1.78682247099881,57.5055603824541],[-1.78584824445278,57.5053204455552],[-1.78606346221598,57.5056162749188],[-1.78670641764706,57.5057999764706]]]},"properties":{"name":"AB42 9","description":"AB42 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

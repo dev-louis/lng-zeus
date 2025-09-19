@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.91773678156987,52.6063719180889],[-1.9174329563881,52.6067417922232],[-1.91811601780909,52.6073155318981],[-1.91854442767916,52.607223729783],[-1.91835613139695,52.6066041742738],[-1.91773678156987,52.6063719180889]]]},"properties":{"name":"WS9 1","description":"WS9 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

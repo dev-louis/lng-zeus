@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.6289491281466,55.9817608718536],[-3.62753782243779,55.9817037475749],[-3.62739456097565,55.9833154390239],[-3.6289491281466,55.9817608718536]]]},"properties":{"name":"EH49 9","description":"EH49 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

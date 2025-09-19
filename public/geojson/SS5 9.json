@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[0.65641193916911,51.6026807284867],[0.656553239726057,51.6019177054794],[0.656605429562155,51.6018485236037],[0.656933119846774,51.6020102894929],[0.65641193916911,51.6026807284867]]]},"properties":{"name":"SS5 9","description":"SS5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

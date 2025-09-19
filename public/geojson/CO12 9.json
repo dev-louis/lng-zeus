@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.27961846500124,51.9380298607116],[1.27987424723539,51.9374817559242],[1.28007381106573,51.9381156645617],[1.27987747477036,51.9382279527854],[1.27961846500124,51.9380298607116]]]},"properties":{"name":"CO12 9","description":"CO12 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

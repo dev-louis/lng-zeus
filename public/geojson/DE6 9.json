@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.71274982124442,53.0068257902785],[-1.71278057175122,53.0065194603891],[-1.70962458571755,53.005818130159],[-1.70808493499034,53.0072071402955],[-1.71274982124442,53.0068257902785]]]},"properties":{"name":"DE6 9","description":"DE6 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

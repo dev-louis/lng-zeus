@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.11073776087864,51.6097232609818],[-0.110675635184563,51.6089466898083],[-0.110647395503254,51.6089553044403],[-0.110433737517725,51.6094163558828],[-0.11073776087864,51.6097232609818]]]},"properties":{"name":"N11 9","description":"N11 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

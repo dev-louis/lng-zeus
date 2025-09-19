@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.65513108255489,50.7518076922115],[-1.65499675816447,50.7516483694854],[-1.65454002542373,50.7519568644068],[-1.65480842753625,50.7520335507246],[-1.65513108255489,50.7518076922115]]]},"properties":{"name":"BH25 9","description":"BH25 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.65843995096728,53.7331643345564],[-2.65823680725385,53.7333400881062],[-2.65880356255019,53.734149510459],[-2.65926363218878,53.7333187747854],[-2.65843995096728,53.7331643345564]]]},"properties":{"name":"PR5 9","description":"PR5 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

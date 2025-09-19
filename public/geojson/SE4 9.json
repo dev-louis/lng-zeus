@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.035681,51.463641160804],[-0.035681,51.4630430845588],[-0.035159968225077,51.4632997693303],[-0.035068173301636,51.4636642827814],[-0.035074936582318,51.4636772850575],[-0.035472139674706,51.4637219761058],[-0.035681,51.463641160804]]]},"properties":{"name":"SE4 9","description":"SE4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.14024415867725,51.081625828386],[1.14014849794593,51.0815704851531],[1.14015498349662,51.0815231115933],[1.1419488318709,51.0797386183605],[1.14210577633517,51.0797928847577],[1.14215871225336,51.0806813152884],[1.14024415867725,51.081625828386]]]},"properties":{"name":"CT50 1","description":"CT50 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.38410958276642,53.9302042403627],[-1.38422047855228,53.9304935],[-1.38462431276596,53.9304935],[-1.38515656368014,53.9301715464226],[-1.38520210986205,53.9299811233674],[-1.38513903112702,53.9299014614332],[-1.38410958276642,53.9302042403627]]]},"properties":{"name":"LS22 9","description":"LS22 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

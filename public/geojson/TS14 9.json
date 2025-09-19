@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.05715343195824,54.5302203733201],[-1.0579337069185,54.5291948252879],[-1.05790541458282,54.5290232576625],[-1.05764300892837,54.5289642204674],[-1.05656605111235,54.530206864101],[-1.05715343195824,54.5302203733201]]]},"properties":{"name":"TS14 9","description":"TS14 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

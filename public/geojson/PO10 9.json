@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.937423505235596,50.8484239921466],[-0.936970215032655,50.848416797064],[-0.937097001010114,50.8485927380328],[-0.937292786707252,50.8486200699392],[-0.937423505235596,50.8484239921466]]]},"properties":{"name":"PO10 9","description":"PO10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

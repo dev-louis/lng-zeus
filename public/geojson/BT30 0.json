@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-5.70994132805595,54.3388970623035],[-5.70913543755879,54.3391493550414],[-5.70835565403728,54.3397893039652],[-5.71002938652229,54.3402301531465],[-5.71004490872402,54.3401838739895],[-5.70994132805595,54.3388970623035]]]},"properties":{"name":"BT30 0","description":"BT30 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.20420408742447,53.037914413142],[-1.2042093616981,53.0381605459115],[-1.20443905975168,53.0381472048629],[-1.20461927051269,53.0380018201079],[-1.20420408742447,53.037914413142]]]},"properties":{"name":"NG15 5","description":"NG15 5 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

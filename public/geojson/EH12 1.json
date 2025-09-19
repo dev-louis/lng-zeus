@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.30418608062784,55.9285503838747],[-3.3042096389045,55.9284532094196],[-3.30314986496952,55.9275277434684],[-3.30155958912838,55.9275441731084],[-3.30064524111809,55.9290605184919],[-3.3021855,55.9289505],[-3.30418608062784,55.9285503838747]]]},"properties":{"name":"EH12 1","description":"EH12 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

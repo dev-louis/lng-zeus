@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.55968109043,54.5279142564681],[-1.56008402750905,54.5273313188086],[-1.55997924934553,54.5272546093378],[-1.55935115869921,54.5273703937246],[-1.55920935444999,54.5277087680021],[-1.55968109043,54.5279142564681]]]},"properties":{"name":"DL98 1","description":"DL98 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

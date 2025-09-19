@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.77767047928625,54.962887975834],[-1.77790829710539,54.9614201259246],[-1.77711447494764,54.9613854411972],[-1.77681072924902,54.9618849341238],[-1.77767047928625,54.962887975834]]]},"properties":{"name":"NE40 9","description":"NE40 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.23902742760273,53.4873538479212],[-2.23967730245049,53.4874949153742],[-2.24018485882735,53.4875210131312],[-2.24005195652174,53.4872075],[-2.23919774938854,53.4872075],[-2.23902742760273,53.4873538479212]]]},"properties":{"name":"M60 4","description":"M60 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

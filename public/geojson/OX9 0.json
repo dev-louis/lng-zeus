@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.978733640756269,51.7480709926471],[-0.978692349031836,51.7480988826715],[-0.978813960949457,51.7484810915555],[-0.978833573859566,51.7484207585082],[-0.978733640756269,51.7480709926471]]]},"properties":{"name":"OX9 0","description":"OX9 0 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

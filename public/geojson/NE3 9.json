@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.63156858094746,55.0094541836832],[-1.63337234138926,55.0082607694022],[-1.63362191808329,55.0076542365924],[-1.63266430934758,55.0071061942555],[-1.63156858094746,55.0094541836832]]]},"properties":{"name":"NE3 9","description":"NE3 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

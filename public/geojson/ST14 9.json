@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.86598803607247,52.8984037220235],[-1.86618920559006,52.8980029186335],[-1.8657444245556,52.8979244278628],[-1.86573373176661,52.8982606566721],[-1.86577201955308,52.8983691387337],[-1.86598803607247,52.8984037220235]]]},"properties":{"name":"ST14 9","description":"ST14 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.23945661043523,51.6068575491343],[-1.23937747297294,51.6061057432433],[-1.23909271972192,51.6071633981759],[-1.23911136587693,51.6071772595477],[-1.23927541821172,51.6070455315989],[-1.23945661043523,51.6068575491343]]]},"properties":{"name":"OX11 1","description":"OX11 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.427908967889905,50.824949646789],[-0.427722435624049,50.8259861995069],[-0.428083363437386,50.8262639629647],[-0.428387865251149,50.8262770178866],[-0.428716135441509,50.8258301932089],[-0.427908967889905,50.824949646789]]]},"properties":{"name":"BN99 4","description":"BN99 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

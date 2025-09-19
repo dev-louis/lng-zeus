@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.06229701298406,52.6092014890661],[-2.06265645446389,52.60939275412],[-2.06308367104639,52.6093500076091],[-2.06328949783999,52.608863898992],[-2.06243414607119,52.6084647348332],[-2.06229701298406,52.6092014890661]]]},"properties":{"name":"WV11 9","description":"WV11 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

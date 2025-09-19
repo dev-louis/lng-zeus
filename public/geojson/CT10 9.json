@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.43294563328823,51.3598828620721],[1.43351617418686,51.3601884717308],[1.43278192892487,51.3604909068502],[1.43294563328823,51.3598828620721]]]},"properties":{"name":"CT10 9","description":"CT10 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

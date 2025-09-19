@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-5.62361,56.39713],[-5.58882,56.44340999999999],[-5.61268,56.46068],[-5.74896,56.44402],[-5.70383,56.41022999999999],[-5.62361,56.39713]]]},"properties":{"name":"PA64","description":"PA64 postcode districtDetails","styleUrl":"#stylePostcode46","fill-opacity":0,"fill":"#0000ff","stroke-width":3}}
+]}

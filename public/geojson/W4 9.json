@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.262598878957811,51.4920712160255],[-0.262561393939306,51.4912090606058],[-0.262555237727512,51.4911944396029],[-0.262066789536479,51.4914355722541],[-0.262112534913201,51.4915526568839],[-0.262598878957811,51.4920712160255]]]},"properties":{"name":"W4 9","description":"W4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

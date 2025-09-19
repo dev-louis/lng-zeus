@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.073013681256429,51.7959650427394],[-0.072857029696583,51.7952078935334],[-0.072422856200403,51.7954087388072],[-0.072458276134625,51.7960413264044],[-0.072699321743809,51.796199909042],[-0.073013681256429,51.7959650427394]]]},"properties":{"name":"SG13 9","description":"SG13 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

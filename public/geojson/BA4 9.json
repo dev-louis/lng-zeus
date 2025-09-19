@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.54745316505282,51.1908247775088],[-2.54751670281504,51.1906314719441],[-2.5469801612733,51.1904754078438],[-2.54693560766721,51.1905008670473],[-2.54678888121548,51.1907140635359],[-2.54745316505282,51.1908247775088]]]},"properties":{"name":"BA4 9","description":"BA4 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

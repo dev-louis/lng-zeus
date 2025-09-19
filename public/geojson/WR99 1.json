@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-2.1775690334933,52.189008818788],[-2.17780941475629,52.1909531792875],[-2.17903922268431,52.1925822755039],[-2.18028735490558,52.1922645432147],[-2.17967224735011,52.189406261969],[-2.1775690334933,52.189008818788]]]},"properties":{"name":"WR99 1","description":"WR99 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

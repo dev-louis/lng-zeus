@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.39581722087889,52.2452492533999],[-1.39667630475088,52.2453323139953],[-1.39659568349135,52.2447454386503],[-1.39600499843635,52.244339342675],[-1.39592584013152,52.2443855721581],[-1.39581722087889,52.2452492533999]]]},"properties":{"name":"CV47 4","description":"CV47 4 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

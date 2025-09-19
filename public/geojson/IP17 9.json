@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[1.49212667455806,52.2168001207071],[1.49287179703971,52.2156079247366],[1.49318736718638,52.2156008473058],[1.49291216799717,52.2167600196483],[1.49259564944491,52.2172156016076],[1.49212667455806,52.2168001207071]]]},"properties":{"name":"IP17 9","description":"IP17 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

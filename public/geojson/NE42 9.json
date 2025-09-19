@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.84227054782603,54.9695411391305],[-1.84264196644017,54.9693812227827],[-1.84247835997272,54.9692145771858],[-1.84227054782603,54.9695411391305]]]},"properties":{"name":"NE42 9","description":"NE42 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

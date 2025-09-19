@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.08087264673157,51.513341602424],[-0.080992713267364,51.5133534771363],[-0.081064561847602,51.5133132671414],[-0.081205947243686,51.5129355563973],[-0.080436046018621,51.5128384720786],[-0.08087264673157,51.513341602424]]]},"properties":{"name":"EC3M 2","description":"EC3M 2 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.5069710287489,55.1273112662525],[-1.50674086393807,55.1278483174779],[-1.50716975772841,55.1277034593103],[-1.5071466360817,55.127319231946],[-1.5069710287489,55.1273112662525]]]},"properties":{"name":"NE24 9","description":"NE24 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

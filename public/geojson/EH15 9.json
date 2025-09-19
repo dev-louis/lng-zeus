@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.11234092948773,55.9517475576922],[-3.11236030795794,55.9517431154515],[-3.11219210277921,55.9511986162131],[-3.11175383324155,55.951395299945],[-3.11234092948773,55.9517475576922]]]},"properties":{"name":"EH15 9","description":"EH15 9 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}

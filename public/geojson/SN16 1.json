@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-1.900244,51.5328034618321],[-1.900244,51.5317015811966],[-1.8991612941815,51.532469654555],[-1.89920392650847,51.532565277063],[-1.900244,51.5328034618321]]]},"properties":{"name":"SN16 1","description":"SN16 1 postcode sectorDetails","fill-opacity":0,"stroke-opacity":1,"stroke":"#ff0000"}}
+]}
