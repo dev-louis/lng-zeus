@@ -16,12 +16,16 @@ export type Publication = {
   paperContactNumber?: string | null;
   paperVoucherContactName?: string | null;
   paperVoucherContactNumber?: string | null;
+  paperVoucherContactEmail?: string | null;
   adfast?: boolean | null;
   deadline?: string | null;
   specialInstructions?: string | null;
   sendArtwork?: boolean | null;
   createdAt: Date | null;
   updatedAt: Date | null;
+  distribution?: number | null;
+  isNationalPaper?: boolean | null;
+  isPaidPaper?: boolean | null;
 };
 
 export type LegacyPublication = {

@@ -212,6 +212,19 @@ const PublicationOverview = (props: Props) => {
                         <span className="ml-2">N/A</span>
                       )}
                     </div>
+                    <div className="flex items-center gap-2">
+                      <MailIcon className="size-4 text-muted-foreground" />
+                      {publication.paperVoucherContactEmail ? (
+                        <a
+                          className="ml-2 underline"
+                          href={`mailto:${publication.paperVoucherContactEmail}`}
+                        >
+                          {publication.paperVoucherContactEmail}
+                        </a>
+                      ) : (
+                        <span className="ml-2">N/A</span>
+                      )}
+                    </div>
                   </div>
                 </div>
                 {/* Adfast logo at bottom right if true */}
