@@ -11,6 +11,6 @@ export default async function Publications() {
     return <PublicationsLayout publications={publications} />;
   } catch (error) {
     console.error("Error fetching publications:", error);
-    return <div>Error fetching publications</div>;
+    return <div>Error fetching publications: {JSON.stringify(error)}</div>;
   }
 }
