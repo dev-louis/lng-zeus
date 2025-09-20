@@ -4,7 +4,7 @@ import { db } from "@/db";
 import { publication } from "@/db/schema";
 import { auth } from "@/lib/auth";
 import { Publication } from "@/types";
-import { eq } from "drizzle-orm";
+import { asc, eq } from "drizzle-orm";
 import { headers } from "next/headers";
 
 export async function createApiKey(
@@ -68,5 +68,17 @@ export async function updatePublication(newValues: Publication) {
   } catch (error) {
     console.log("[updatePublication] Error:", error);
     throw new Error("There was an error updating the publication.");
+  }
+}
+
+export async function getPublications() {
+  try {
+    const publications = await db.query.publication.findMany({
+      orderBy: asc(publication.name),
+    });
+    return publications;
+  } catch (error) {
+    console.error("[getPublications] Error:", error);
+    throw new Error("Failed to fetch publications");
   }
 }
